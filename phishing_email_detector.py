@@ -1,8 +1,8 @@
 # FILE NAME - phishing_email_detector.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Luke Seeley
+# DATE: 10/2/25
+# BRIEF DESCRIPTION: phishing detector  
 
 
 
